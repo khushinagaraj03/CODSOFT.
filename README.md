@@ -32,6 +32,9 @@ This is a simple and user-friendly **To-Do List application** built using Python
 
 ![Screenshot 1](https://github.com/user-attachments/assets/8c987765-cd23-48a1-aa38-ed84904711e5)
 ![Screenshot 2](https://github.com/user-attachments/assets/22ad6100-5609-48c3-93fa-9499cc6cc8d3)
+
+
+
 In the first screenshot, addition operation is done using the values 28 and -9 and the result obtained is 19.
 In the second screenshot, multiplication operation is done using the values 28 and -9 and the results obtained are -252.
 
